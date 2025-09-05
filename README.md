@@ -67,15 +67,8 @@ Output Style: Direct, moderately detailed, sometimes less technical depth, less 
 Fast response, suitable for general summarization and basic technical explanations, utility across broad domains, but less specialized than others
 
 ### Comparative Results Table (Muthulakshmi D)
-+-----------+----------+---------+--------+-----------+---------+-------------------------+
-| Platform  | Accuracy | Clarity | Depth  | Relevance | Speed   | Special Feature         |
-+-----------+----------+---------+--------+-----------+---------+-------------------------+
-| ChatGPT   | High     | High    | High   | High      | Fast    | Reasoning & explanation |
-| Gemini    | High     | High    | Medium | High      | Fast    | Up-to-date search       |
-| Perplexity| High     | Medium  | Medium | High      | Fastest | Source citations        |
-| Google AI | Medium   | High    | Medium | Medium    | Fast    | Search/database links   |
-| Meta      | Medium   | Medium  | Medium | Medium    | Fast    | Convert into text       |
-+-----------+----------+---------+--------+-----------+---------+-------------------------+
+<img width="900" height="277" alt="image" src="https://github.com/user-attachments/assets/c0b484a2-9042-493b-9d01-d60cacb9398d" />
+
 
 ChatGPT excels in technical summarization, delivering the most consistent results for accuracy, clarity, depth, and relevance.
 
